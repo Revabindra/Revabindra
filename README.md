@@ -1,3 +1,6 @@
+# Hey !!  I'm Ravneet Kaur 
+
+
 # 💫 About Me:
 🔭 I’m currently working on MERN stack projects and improving my backend development skills  <br>👯 I’m looking to collaborate on beginner-friendly open source or web development projects  <br>🌱 I’m currently learning DSA in Java and improving my problem solving skills<br>⚡ Fun fact: I enjoy turning small ideas into working web applications
 
